@@ -1,5 +1,5 @@
 .DS_Store
 tmp
-build
+# build
 apertiiif
 apertiiif-cli
