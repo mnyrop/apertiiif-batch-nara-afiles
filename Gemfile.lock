@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/nyu-dss/apertiiif-cli.git
-  revision: a6d40cb27345f74d65b1f800ac766c7c219ab8a5
+  revision: 71c6d504890369ff66a2f84c9995dc74921cbf43
   branch: enhancement/jp2
   specs:
     apertiiif (0.1.0)
