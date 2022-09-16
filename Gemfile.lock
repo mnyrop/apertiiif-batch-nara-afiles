@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/nyu-dss/apertiiif-cli.git
-  revision: 71c6d504890369ff66a2f84c9995dc74921cbf43
-  branch: enhancement/jp2
+  revision: c0c3d63abca5be60d0c66d7f427e850d4fe12f24
+  branch: enhancement/jpg-fmt
   specs:
     apertiiif (0.1.0)
       colorize
